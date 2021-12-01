@@ -36,20 +36,19 @@
 - Homework 4  -- release date: 10/10/2021; due 10/19/2021
 - Homework 5  -- release date: 10/24/2021; due 10/31/2021 
 - Homework 6  -- release date: 10/31/2021; due 11/7/2021
-- Homework 7  -- release date: 11/21/2021; due 11/28/2021
-- Homework 8  -- release date: 11/28/2021; due 12/5/2021
-- Homework 9  -- release date: 12/10/2021; due 12/20/2021
+- Homework 7  -- release date: 12/2/2021; due 12/12/2021
+- Homework 8  -- release date: 12/9/2021; due 12/19/2021
 
 
 ## Lab Dates (Tentative)
 - Labs will be due on the date listed @ 11:59 PM EST
 - No late labs will be accepted, not even for partial credit
 - Lab 1 -- release date: 10/17/2021; due 10/31/2021
-- Lab 2 -- release date: 11/7/2021; due 11/21/2021
+- Lab 2 -- release date: 11/7/2021; due 12/2/2021
 
 ## Project Dates (Tentative)
 - 10/18/2021 -- Form groups on UB Learns
 - 11/7/2021 -- Submit project description on UB Learns
-- 11/29/2021 -- Submit preliminary report on UB Learns
+- 12/4/2021 -- Submit preliminary report on UB Learns
 - 12/15/2021, 12/16/2021, 12/17/2021 -- Presentation days
 - 12/20/2021 -- Submit final report and code
