@@ -721,9 +721,10 @@ np.sort(data['exam1'].unique())
 - Where: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.where.html
 - Plotting: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
 - to_csv
-- to_sql
+- to_sql: https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html
 ## Example 5 in pandas
 
 Ref: https://www.kaggle.com/shovitbhari/pandas-75-exercises-with-solutions
+Ref: https://pythonspeed.com/memory/
 
 # Plotting with Matplotlib
