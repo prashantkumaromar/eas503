@@ -700,14 +700,13 @@ data.iloc[3]
 data.columns 
 data.dtypes 
 data.info()  
-data.get_dtype_counts() 
+data.value_counts()
 data.describe()  
 ```
 
 ## More data manipulation
 ```python
 data[data['exam1'].between(75, 85)] 
-data[data['exam1'].in([75, 85, 95])
 data[data['exam1'].isin([75, 85, 95])]  
 data['exam1'].unique() 
 data['exam1'].nunique()
