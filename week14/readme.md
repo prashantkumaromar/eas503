@@ -135,3 +135,8 @@
 - Margin width -- define an optimal hyper plane we need to maximize the width
 of the margin 
 
+
+### Evaluation 
+
+![roc](Roc_curve.svg.png)
+
