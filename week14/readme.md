@@ -137,6 +137,8 @@ of the margin
 
 
 ### Evaluation 
+Ref: https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+Ref: https://datascience-enthusiast.com/Python/ROC_Precision-Recall.html
 
 ![roc](Roc_curve.svg.png)
 
