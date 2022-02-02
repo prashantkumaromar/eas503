@@ -1,7 +1,7 @@
 # EAS503 Spring 2022
 
 ## Lecture Notes
-Lecture notes are week# folders.
+Lecture notes are in week# folders.
 
 ## Course notes
 
