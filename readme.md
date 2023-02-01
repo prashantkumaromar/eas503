@@ -1,9 +1,9 @@
-# EAS503 Fall 2022
+# EAS503 Spring 2023
 
 ## Lecture Notes
 Lecture notes are in week# folders.
 
-## Course notes
+## Course Book
 
-https://mkzia.github.io/eas503-notes/
+https://mkzia.github.io/eas503-book/
 
